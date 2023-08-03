@@ -26,10 +26,11 @@ Dense, Dropout, and Batch Normalization layers.
 testing process
 
 ## The architecture of the model
-![model_architecture](https://github.com/fatlina99/Customer_Segementation/assets/141213373/17c907d2-5d2c-41f1-9706-758c2de4f7a1)
+![model_architecture](https://github.com/fatlina99/Customer_Segementation/assets/141213373/ba4844f2-cae5-4c00-be1c-706536cca05a)
 
 ## F1 Score Comparison
-![f1_score_comparison](https://github.com/fatlina99/Customer_Segementation/assets/141213373/d20adce9-58ce-4c13-849a-d1c1cc619924)
+![f1_score_comparison](https://github.com/fatlina99/Customer_Segementation/assets/141213373/b093dbbc-694c-497c-9b81-6fe92a8d5d7b)
+
 
 ## Conclusion
 1. The Deep Learning Model has the lowest F1-score = 0.0851. This indicates that the model is not performing well on the classification task, and its predictions are not precise or recall-friendly.
